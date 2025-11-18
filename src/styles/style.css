@@ -4,3 +4,6 @@
 .login_button_bg_color {
     background-color: aqua !important;
 }
+.material-icons {
+  cursor: pointer;
+}
